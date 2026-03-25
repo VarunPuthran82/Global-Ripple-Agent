@@ -1,0 +1,7 @@
+{
+  "name": "Global Ripple Macro Agent v2",
+  "description": "A cross-border intelligence dashboard that uses Gemini to translate global news and predict sector-specific ripple effects across international markets.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
